@@ -27,3 +27,13 @@ PARSED GITHUB STATS CARDS
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=D-Palamala-Sai-Niharika&hide=contribs&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/>
 
+<h2> Let's  Connect </h2>
+
+<p> 
+  <a href="mailto:bhargavineha02@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100       alt="Gmail badge"> 
+  <a href="https://www.instagram.com/neha_sainiharika/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> 
+   <a href="https://www.linkedin.com/in/sai-niharika-palamala-d-0342a2190/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge">
+</p>
+
+
+
