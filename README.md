@@ -38,9 +38,18 @@ I am a CSE student at SRM Institute of Science and Technology, Chennai.My object
   <a href="https://www.instagram.com/neha_sainiharika/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> 
    <a href="https://www.linkedin.com/in/sai-niharika-palamala-d-0342a2190/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge">
 </p>
+ 
+<!-- 
+
+*** PROFILE VIEWS SECTION ***
+
+-->
+
     
-
-
+<h2> Profile View's </h2>
+    
+![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=D-Palamala-Sai-Niharika&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+    
 
 
 
