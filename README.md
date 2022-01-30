@@ -22,7 +22,7 @@ I am a CSE student at SRM Institute of Science and Technology, Chennai.My object
 <p> 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=D-Palamala-Sai-Niharika&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff" alt="Stats" /> 
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Palamala-Sai-Niharika&hide_border=true&card_width=340&layout=compact&langs_count=10&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Palamala-Sai-Niharika&hide_border=true&card_width=340&layout=compact&langs_count=20&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/>
 </p>
 
 <!-- 
