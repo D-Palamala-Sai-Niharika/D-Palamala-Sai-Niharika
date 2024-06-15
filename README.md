@@ -2,7 +2,6 @@
 <h1>About Me ✨</h1>
 
 - 👋 My name is Niharika.I am currently working as a Frontend Developer 
-- 📫 Reach me at bhargavineha02@gmail.com
 <!-- 
 *** GITHUB STATS SECTION ***
 -->
